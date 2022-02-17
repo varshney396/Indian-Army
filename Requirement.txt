@@ -5,3 +5,7 @@ Emoji
 Type Option
 Colours
 Vibrtant
+Dark mode
+Video
+Image
+Video Calls
