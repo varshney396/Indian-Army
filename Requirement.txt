@@ -1,0 +1,7 @@
+This is a Chat Application.
+
+Fetures:---
+Emoji
+Type Option
+Colours
+Vibrtant
