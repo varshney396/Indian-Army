@@ -9,3 +9,8 @@ Dark mode
 Video
 Image
 Video Calls
+
+
+Payment Option
+Send money
+Receive money
